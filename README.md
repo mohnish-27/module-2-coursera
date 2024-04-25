@@ -1,2 +1,2 @@
-# module-2-coursera
-Coursera module-2 assignment
+# HTML,CSS AND JAVASCRIPT-COURSERA
+Coursera assignment solutions
